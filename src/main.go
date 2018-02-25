@@ -234,7 +234,7 @@ func main() {
 	menu := []MenuItem{
 		MenuItem{
 			'r',
-			"Rome draw mode",
+			"Room draw mode",
 			0, 0,
 		},
 		MenuItem{
