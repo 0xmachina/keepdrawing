@@ -32,9 +32,7 @@ And you should be able to draw.
 Planned features
 ================
 
-* Actually working
-* Ability to save and load maps
-* Draw rooms and delete areas
-* Add doors, stairs
+* Ability to load maps
+* Delete areas
 * Add points of interest, that is a tile that has a marker on it, upon approach will contain a longer description
 * Allow several levels
