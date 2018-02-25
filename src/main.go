@@ -291,7 +291,7 @@ main:
 			break main
 		case 's':
 			// save
-			m.WriteToFile("dung.map") // TODO: Allow the user to input a filename
+			m.WriteToFile("keep.map") // TODO: Allow the user to input a filename
 		case 'r':
 			// enter/leave room drawing mode
 			mi := menu[0]
